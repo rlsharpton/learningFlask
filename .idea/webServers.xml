@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a982ee69-dbde-4068-9d07-fbf4f84e0835" name="FlaskOnTocando" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="E:\Program Files (x86)\PostgreSQL\EnterpriseDB-ApacheHTTPD\apache\htdocs" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
